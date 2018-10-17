@@ -1,5 +1,5 @@
 # Cigarette-smokers-problem
-Aplikacja wielowątkowa napisana w języku java mająca na celu rozwiazanie "[Cigarette smokers problem](https://en.wikipedia.org/wiki/Cigarette_smokers_problem)".
+Prosta aplikacja wielowątkowa napisana w trakcie studiów w języku java mająca na celu rozwiazanie "[Cigarette smokers problem](https://en.wikipedia.org/wiki/Cigarette_smokers_problem)".
 Problemu w którym należy zapobiec zakleszczeniu wątków(deadlock).
 
 ### Opis zagadnienia
